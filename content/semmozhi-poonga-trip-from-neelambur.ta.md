@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:19.927Z"
 publishedAt: "2026-08-31T00:00:00.000Z"
 slug: semmozhi-poonga-trip-from-neelambur-ta
-redirects:
-  - "/ta/semmozhi-poonga-trip-from-neelambur"
+translationOf: semmozhi-poonga-trip-from-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/semmozhi-poonga-trip-from-neelambur/index.ta.md","id":"01M1AHVVEQJ930YJMNKMBNSCPB","publishAfterDate":"2026-08-31"}}
 ---
 கோயம்புத்தூர் செம்மொழிப் பூங்கா தொடர்பான தேடல் ஆர்வம் வேகமாக உயர்ந்துள்ளது. இது பயனுள்ள உள்ளூர் பயணத் தலைப்பு. அதே நேரத்தில் நகலெடுக்கப்பட்ட திறப்பு தேதி, நேரம், நுழைவுச்சீட்டு மற்றும் வசதி தகவல்கள் விரைவாக பழையதாகும் ஆபத்தும் உள்ளது.

@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:24.977Z"
 publishedAt: "2026-09-09T00:00:00.000Z"
 slug: weather-and-rain-preparedness-near-neelambur-ta
-redirects:
-  - "/ta/weather-and-rain-preparedness-near-neelambur"
+translationOf: weather-and-rain-preparedness-near-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/weather-and-rain-preparedness-near-neelambur/index.ta.md","id":"01M1AHW0CHW5X5N15Q1N53P5RX","publishAfterDate":"2026-09-09"}}
 ---
 கோயம்புத்தூர் வானிலை பற்றிய தேடல்கள் பொதுவானவை. ஆனால் பயனுள்ள உள்ளூர் பதிலுக்கு வெப்பநிலை படம் மட்டும் போதாது. நீலாம்பூர் சுற்றுவட்டார மக்கள் பயணம் செய்யலாமா, பொருட்களை பாதுகாக்க வேண்டுமா, வெளிப்புற திட்டத்தை மாற்ற வேண்டுமா அல்லது இடியுடன் கூடிய மழை எச்சரிக்கைக்கு எப்படி செயல்பட வேண்டும் என்று முடிவு செய்ய வேண்டியிருக்கலாம்.

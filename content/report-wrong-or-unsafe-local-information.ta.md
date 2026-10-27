@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:18.947Z"
 publishedAt: "2026-08-05T00:00:00.000Z"
 slug: report-wrong-or-unsafe-local-information-ta
-redirects:
-  - "/ta/report-wrong-or-unsafe-local-information"
+translationOf: report-wrong-or-unsafe-local-information
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/report-wrong-or-unsafe-local-information/index.ta.md","id":"01M1AHVTG3661Y3QNZM5JXZ9BK","publishAfterDate":"2026-08-05"}}
 ---
 தவறான அல்லது பாதுகாப்பற்ற தகவலை திருத்த முடியும் போது தான் உள்ளூர் டைரக்டரி நம்பகமாக மாறும். புகார் என்பது பெரிய தவறான பயன்பாட்டுக்காக மட்டும் அல்ல. மக்கள் நேரத்தை வீணாக்குவதற்கு முன் சாதாரண பிரச்சினைகளையும் சரிசெய்ய அது உதவும்.

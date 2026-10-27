@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:27.710Z"
 publishedAt: "2026-07-14T00:00:00.000Z"
 slug: why-neelambur-needs-a-local-directory-ta
-redirects:
-  - "/ta/why-neelambur-needs-a-local-directory"
+translationOf: why-neelambur-needs-a-local-directory
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/why-neelambur-needs-a-local-directory/index.ta.md","id":"01M1AHW31YB92HF51SSEVW6P6Z","publishAfterDate":"2026-07-14"}}
 ---
 பயனுள்ள உள்ளூர் டைரக்டரி என்பது கடைகளின் பட்டியல் மட்டும் அல்ல. அது அந்த பகுதியின் பகிரப்பட்ட நினைவகம் போல செயல்பட வேண்டும்.

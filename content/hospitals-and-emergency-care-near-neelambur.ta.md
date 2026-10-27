@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:10.664Z"
 publishedAt: "2026-08-21T00:00:00.000Z"
 slug: hospitals-and-emergency-care-near-neelambur-ta
-redirects:
-  - "/ta/hospitals-and-emergency-care-near-neelambur"
+translationOf: hospitals-and-emergency-care-near-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/hospitals-and-emergency-care-near-neelambur/index.ta.md","id":"01M1AHVJD8RH204QN6SG4B63DZ","publishAfterDate":"2026-08-21"}}
 ---
 நீலாம்பூர் அருகிலுள்ள மருத்துவமனையை மக்கள் தேடும்போது விரைவான பதில் தேவைப்படலாம். எனவே பயனுள்ள உள்ளூர் பக்கம் தொடர்பைக் கண்டுபிடிப்பதையும் மருத்துவ ஆலோசனையையும் தெளிவாக பிரிக்க வேண்டும். அது ஒரு நிலையத்தை சரிபார்த்து பயணத்தை திட்டமிட உதவலாம்; ஆனால் ஒருவருக்கு எந்த சிகிச்சை தேவை என்பதை தீர்மானிக்க முடியாது.

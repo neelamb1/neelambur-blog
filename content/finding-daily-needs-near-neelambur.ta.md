@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:04.376Z"
 publishedAt: "2026-07-31T00:00:00.000Z"
 slug: finding-daily-needs-near-neelambur-ta
-redirects:
-  - "/ta/finding-daily-needs-near-neelambur"
+translationOf: finding-daily-needs-near-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/finding-daily-needs-near-neelambur/index.ta.md","id":"01M1AHVC8RJW9PNFM7MSDMSZ81","publishAfterDate":"2026-07-31"}}
 ---
 தினசரி தேவைகள் பற்றிய தகவலை எளிதாகக் கண்டுபிடிக்க உதவுவது ஒரு உள்ளூர் டைரக்டரியின் முதல் முக்கிய பணிகளில் ஒன்று. மளிகை, மருந்தகம், உணவு, பழுது பார்க்கும் உதவி, சிறிய சேவைகள், அருகிலுள்ள தொடர்புகள் போன்றவை அவசரமாக தேவைப்படும் நேரங்கள் பல.

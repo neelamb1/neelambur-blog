@@ -17,8 +17,8 @@ status: published
 createdAt: "2026-08-31T00:00:21.863Z"
 publishedAt: "2026-07-17T00:00:00.000Z"
 slug: street-dog-problems-practical-local-action-ta
-redirects:
-  - "/ta/street-dog-problems-practical-local-action"
+translationOf: street-dog-problems-practical-local-action
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/street-dog-problems-practical-local-action/index.ta.md","id":"01M1AHVXB7JDXVHJ8YBHDC4P9D","publishAfterDate":"2026-07-17"}}
 ---
 தெரு நாய் பிரச்சினைகளை நேர்மையாகப் பேச வேண்டும். விலங்குகளுக்கு கருணை காட்டுவது முக்கியம். அதே நேரத்தில் கட்டுப்பாடில்லாத தெரு நாய்கள் பொதுச் சுகாதாரம், பாதுகாப்பு, சுத்தம் ஆகியவற்றில் உண்மையான பிரச்சினைகளை உருவாக்குகின்றன என்பதையும் ஏற்க வேண்டும்.

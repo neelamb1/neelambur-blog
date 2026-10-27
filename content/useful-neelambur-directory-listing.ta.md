@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:23.811Z"
 publishedAt: "2026-07-27T00:00:00.000Z"
 slug: useful-neelambur-directory-listing-ta
-redirects:
-  - "/ta/useful-neelambur-directory-listing"
+translationOf: useful-neelambur-directory-listing
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/useful-neelambur-directory-listing/index.ta.md","id":"01M1AHVZ83D5P4321MCK3WF6E9","publishAfterDate":"2026-07-27"}}
 ---
 உள்ளூர் டைரக்டரி பயனுள்ளதாக இருக்க வேண்டுமெனில், அதில் உள்ள தகவல் ஒருவர் உடனே பயன்படுத்தக்கூடிய அளவு தெளிவாக இருக்க வேண்டும். பெயர் மட்டும் போதாது. அந்த இடம் என்ன செய்கிறது, எங்கே உள்ளது, எப்படி தொடர்பு கொள்ளலாம், தகவல் இன்னும் சரியாக உள்ளதா என்பதெல்லாம் தெரிந்திருக்க வேண்டும்.

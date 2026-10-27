@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:16.928Z"
 publishedAt: "2026-09-14T00:00:00.000Z"
 slug: planning-visit-isha-from-neelambur-ta
-redirects:
-  - "/ta/planning-visit-isha-from-neelambur"
+translationOf: planning-visit-isha-from-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/planning-visit-isha-from-neelambur/index.ta.md","id":"01M1AHVRH00AXMYBBMVPWBMJAM","publishAfterDate":"2026-09-14"}}
 ---
 "ஈஷா கோயம்புத்தூர்" என்பது தொடர்ச்சியான தேடல். ஆனால் பயணத் திட்டம் சரியான இடத்தையும் வருகையின் நோக்கத்தையும் அடையாளப்படுத்துவதில் தொடங்குகிறது. ஈஷா யோக மையம், ஆதியோகி, தியானலிங்கம், பதிவு செய்த நிகழ்ச்சி, தங்குமிடம் அல்லது மற்றொரு ஈஷா இடத்திற்கு வேறு அணுகல் தேவைகள் இருக்கலாம்.
