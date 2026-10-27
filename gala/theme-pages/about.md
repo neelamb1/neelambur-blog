@@ -11,12 +11,12 @@ tags: []
 status: published
 createdAt: '2026-10-27T07:38:52.674Z'
 publishedAt: '2026-10-27T07:38:52.674Z'
-updatedAt: '2026-10-27T15:29:44.964Z'
+updatedAt: '2026-10-27T23:05:10.410Z'
 slug: about
 redirects: []
 extensions: {}
 ---
-## A practical local guide for Neelambur.
+## A practical local guide for Neelambur
 
 Find useful local information, discover nearby services, and follow local guides, directory updates, and free classifieds for people who live, work, study, sell, and build around Neelambur.
 
@@ -27,5 +27,4 @@ Find useful local information, discover nearby services, and follow local guides
 - Revise in public when the facts change.
 - Keep ownership of the archive and its history.
 
-It is created and published with Galascribe, while its Markdown content and
-publication settings remain in this repository.
+It is created and published with Galascribe, while its Markdown content and publication settings remain in this repository.
