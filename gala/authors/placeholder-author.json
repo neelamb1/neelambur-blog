@@ -2,9 +2,15 @@
   "schemaId": "urn:gala:schema:author:2.0.0",
   "schemaVersion": "2.0.0",
   "id": "01a17c4c-3982-7195-a5eb-bbe2054bfed1",
-  "displayName": "anandchakruin",
+  "displayName": "Neelambur.com",
   "biography": "",
   "links": [],
-  "localized": [],
+  "localized": [
+    {
+      "language": "ta",
+      "displayName": "நீலாம்பூர்",
+      "biography": ""
+    }
+  ],
   "extensions": {}
 }
