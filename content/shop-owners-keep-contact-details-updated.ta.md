@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:20.902Z"
 publishedAt: "2026-08-03T00:00:00.000Z"
 slug: shop-owners-keep-contact-details-updated-ta
-redirects:
-  - "/ta/shop-owners-keep-contact-details-updated"
+translationOf: shop-owners-keep-contact-details-updated
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/shop-owners-keep-contact-details-updated/index.ta.md","id":"01M1AHVWD6DSZBT8SD1SF8PMAZ","publishAfterDate":"2026-08-03"}}
 ---
 ஒரு உள்ளூர் கடை அல்லது சேவைக்கு சரியான தொடர்பு விவரங்கள் மிகவும் முக்கியம். தவறான தொலைபேசி எண், பழைய இட விவரம், தெளிவில்லாத நேரம் ஆகியவை இருந்தால் மக்கள் அந்த பதிவை தவிர்த்து வேறு இடத்தில் கேட்பார்கள்.

@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:11.660Z"
 publishedAt: "2026-08-14T00:00:00.000Z"
 slug: how-to-share-a-local-job-opening-safely-ta
-redirects:
-  - "/ta/how-to-share-a-local-job-opening-safely"
+translationOf: how-to-share-a-local-job-opening-safely
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/how-to-share-a-local-job-opening-safely/index.ta.md","id":"01M1AHVKCC9RMV8C4RK5DBK3A2","publishAfterDate":"2026-08-14"}}
 ---
 ஒரு உள்ளூர் வேலைப் பதிவு அருகிலுள்ள முதலாளிகளையும் தொழிலாளர்களையும் விரைவாக இணைக்கலாம். ஆனால் தகவலை சரிபார்க்கும் அளவுக்கு அது தெளிவாக இருக்க வேண்டும். "ஆட்கள் தேவை, உடனே அழைக்கவும்" போன்ற செய்திகள் முதலாளி, வேலை, இடம், ஊதியம் மற்றும் தொடர்பின் நம்பகத்தன்மை குறித்து விண்ணப்பதாரர்களை யூகிக்க வைக்கின்றன.

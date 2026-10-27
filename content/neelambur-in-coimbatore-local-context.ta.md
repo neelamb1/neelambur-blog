@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:14.546Z"
 publishedAt: "2026-09-04T00:00:00.000Z"
 slug: neelambur-in-coimbatore-local-context-ta
-redirects:
-  - "/ta/neelambur-in-coimbatore-local-context"
+translationOf: neelambur-in-coimbatore-local-context
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/neelambur-in-coimbatore-local-context/index.ta.md","id":"01M1AHVP6JRR1ET80KE0Z4NRX1","publishAfterDate":"2026-09-04"}}
 ---
 கோயம்புத்தூர் பற்றித் தமிழில் தேடுபவர்கள் ஒரே நகர விளக்கத்தின் மொழிபெயர்ப்பை மட்டும் தேடுவதில்லை. ஒரு இடப்பெயர், முகவரி, பொது அலுவலகம், வழி, நிறுவனம் அல்லது உள்ளூர் சேவையை செயல்படக்கூடிய மொழியில் புரிந்துகொள்ள வேண்டியிருக்கலாம்.

@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:13.557Z"
 publishedAt: "2026-07-14T00:00:00.000Z"
 slug: neelambur-com-starts-here-ta
-redirects:
-  - "/ta/neelambur-com-starts-here"
+translationOf: neelambur-com-starts-here
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/neelambur-com-starts-here/index.ta.md","id":"01M1AHVN7NAPA0YMM87ENJNV7X","publishAfterDate":"2026-07-14"}}
 ---
 நீலாம்பூர் ஒரு எளிய நோக்கத்துடன் தொடங்குகிறது: பயன்படும் உள்ளூர் தகவல்களை எளிதாகக் கண்டுபிடிக்க உதவுவது.

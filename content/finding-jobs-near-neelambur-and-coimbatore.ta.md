@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:06.640Z"
 publishedAt: "2026-09-02T00:00:00.000Z"
 slug: finding-jobs-near-neelambur-and-coimbatore-ta
-redirects:
-  - "/ta/finding-jobs-near-neelambur-and-coimbatore"
+translationOf: finding-jobs-near-neelambur-and-coimbatore
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/finding-jobs-near-neelambur-and-coimbatore/index.ta.md","id":"01M1AHVEFGYAPTJQWFZDBDBBCW","publishAfterDate":"2026-09-02"}}
 ---
 "கோயம்புத்தூரில் வேலை" மற்றும் "கோயம்புத்தூர் காலியிடம்" என்பது தொடர்ச்சியான தேடல்கள். நீலாம்பூர் அருகிலுள்ள ஒருவருக்கு கேள்வி இன்னும் துல்லியமானது: காலியிடம் எங்கு வெளியிடப்பட்டது, முதலாளி உண்மையானவரா, வேலைக்கு என்ன தேவை, தினசரி பயணம் நடைமுறையா?

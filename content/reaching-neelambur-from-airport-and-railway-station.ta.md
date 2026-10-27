@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:17.952Z"
 publishedAt: "2026-08-19T00:00:00.000Z"
 slug: reaching-neelambur-from-airport-and-railway-station-ta
-redirects:
-  - "/ta/reaching-neelambur-from-airport-and-railway-station"
+translationOf: reaching-neelambur-from-airport-and-railway-station
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/reaching-neelambur-from-airport-and-railway-station/index.ta.md","id":"01M1AHVSH00BSDQA2A3E75RWYB","publishAfterDate":"2026-08-19"}}
 ---
 விமானம் அல்லது ரயிலில் கோயம்புத்தூர் வருபவர்கள் நீலாம்பூருக்கு இன்னொரு உள்ளூர் பயணம் செய்ய வேண்டியிருக்கும். சரியான திட்டம் துல்லியமான இலக்கு, வருகை நேரம், சுமைகள், அணுகல் தேவைகள் மற்றும் அன்றைய சாலை நிலையை சார்ந்தது; ஒரே நிலையான தூரம் அல்லது பயண நேரத்தை அல்ல.

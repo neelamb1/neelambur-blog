@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:26.248Z"
 publishedAt: "2026-08-10T00:00:00.000Z"
 slug: what-makes-a-good-local-classified-ad-ta
-redirects:
-  - "/ta/what-makes-a-good-local-classified-ad"
+translationOf: what-makes-a-good-local-classified-ad
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/what-makes-a-good-local-classified-ad/index.ta.md","id":"01M1AHW1M82PW6KMFM9EYNGVF7","publishAfterDate":"2026-08-10"}}
 ---
 ஒரு பயனுள்ள உள்ளூர் விளம்பரம், யூகிக்காமல் பதிலளிக்கலாமா என்பதை ஒருவர் முடிவு செய்ய உதவ வேண்டும். பயன்படுத்திய பொருள், வாடகை, சேவை, வேலை, நிகழ்வு அல்லது சமூகத் தேவை எதுவாக இருந்தாலும், பதிவு தெளிவாகவும் தற்போதையதாகவும் பாதுகாப்பாக அணுகக்கூடியதாகவும் இருக்க வேண்டும்.

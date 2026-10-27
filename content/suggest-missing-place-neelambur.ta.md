@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:22.830Z"
 publishedAt: "2026-07-29T00:00:00.000Z"
 slug: suggest-missing-place-neelambur-ta
-redirects:
-  - "/ta/suggest-missing-place-neelambur"
+translationOf: suggest-missing-place-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/suggest-missing-place-neelambur/index.ta.md","id":"01M1AHVY9EF2GGQKKJRSPXZS7Z","publishAfterDate":"2026-07-29"}}
 ---
 நீலாம்பூரில் பயனுள்ள உள்ளூர் இடம் ஒன்று காணாமல் இருந்தால், பரிசீலிக்கத் தேவையான அளவு தெளிவான தகவலுடன் தெரிவிப்பதே சிறந்த உதவி. உறுதியாக தெரியாத கூற்றுகளுடன் நீண்ட செய்தி அனுப்புவதைக் காட்டிலும், சுருக்கமான சரியான குறிப்பு பயனுள்ளதாக இருக்கும்.

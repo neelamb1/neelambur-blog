@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:02.360Z"
 publishedAt: "2026-09-07T00:00:00.000Z"
 slug: buying-and-selling-used-items-near-neelambur-ta
-redirects:
-  - "/ta/buying-and-selling-used-items-near-neelambur"
+translationOf: buying-and-selling-used-items-near-neelambur
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/buying-and-selling-used-items-near-neelambur/index.ta.md","id":"01M1AHVA9RCZW5YNRG75B7G8AC","publishAfterDate":"2026-09-07"}}
 ---
 கோயம்புத்தூர் சுற்றுவட்டாரத்தில் பயன்படுத்திய பொருள் சந்தையை தேடுபவர்கள் பெரும்பாலும் குறைந்த டெலிவரி செலவு மற்றும் தாமதத்துடன் அருகில் வாங்க அல்லது விற்க விரும்புகிறார்கள். உள்ளூர் பரிமாற்றம் பயனுள்ளதாக இருக்கலாம். ஆனால் அருகிலுள்ள இடம் அல்லது தெரிந்த தொலைபேசி எண் மட்டும் பொருள், வாங்குபவர், விற்பவர் அல்லது கட்டண கோரிக்கை உண்மையானது என்பதை நிரூபிக்காது.

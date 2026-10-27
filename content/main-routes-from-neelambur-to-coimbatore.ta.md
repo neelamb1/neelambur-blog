@@ -16,8 +16,8 @@ status: published
 createdAt: "2026-08-31T00:00:12.603Z"
 publishedAt: "2026-08-28T00:00:00.000Z"
 slug: main-routes-from-neelambur-to-coimbatore-ta
-redirects:
-  - "/ta/main-routes-from-neelambur-to-coimbatore"
+translationOf: main-routes-from-neelambur-to-coimbatore
+redirects: []
 extensions: {"com.galascribe.v1":{"source":"content/posts/main-routes-from-neelambur-to-coimbatore/index.ta.md","id":"01M1AHVM9VT6CFY7CSSMBXV7EV","publishAfterDate":"2026-08-28"}}
 ---
 தூரம் தொடர்பான தேடல்கள் கோயம்புத்தூர் கேள்விகளில் முக்கியமானவை. ஆனால் ஒரு எண் மட்டும் பயணத்தை திட்டமிட போதாது. நீலாம்பூரிலிருந்து செல்லும் பயணம் சரியான தொடக்க இடம், இலக்கு நுழைவாயில், பாதை, போக்குவரத்து, சாலை வேலை மற்றும் பயண முறைக்கு ஏற்ப மாறும்.
