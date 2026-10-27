@@ -1,13 +1,13 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: 2.0.0
+schemaVersion: '2.0.0'
 id: 01a17c4c-3982-72b3-8fb8-10b66f30ed61
 kind: page
 title: About
 description: The purpose and editorial principles behind this publication.
 language: en-US
 authors:
-- 01a17c4c-3982-7195-a5eb-bbe2054bfed1
+  - 01a17c4c-3982-7195-a5eb-bbe2054bfed1
 tags: []
 status: published
 createdAt: '2026-10-27T07:38:52.674Z'
@@ -16,9 +16,9 @@ slug: about
 redirects: []
 extensions: {}
 ---
+## A practical local guide for Neelambur.
 
-This publication is a place for considered work: finished essays, useful field
-notes, and the ideas that become clearer through writing.
+Find useful local information, discover nearby services, and follow local guides, directory updates, and free classifieds for people who live, work, study, sell, and build around Neelambur.
 
 ## Editorial principles
 
