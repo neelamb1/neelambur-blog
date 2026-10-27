@@ -4,7 +4,6 @@ schemaVersion: '2.0.0'
 id: 01a17c4c-3982-72b3-8fb8-10b66f30ed61
 kind: page
 title: About
-description: The purpose and editorial principles behind this publication.
 language: en-US
 authors:
   - 01a17c4c-3982-7195-a5eb-bbe2054bfed1
@@ -12,6 +11,7 @@ tags: []
 status: published
 createdAt: '2026-10-27T07:38:52.674Z'
 publishedAt: '2026-10-27T07:38:52.674Z'
+updatedAt: '2026-10-27T15:29:44.964Z'
 slug: about
 redirects: []
 extensions: {}
