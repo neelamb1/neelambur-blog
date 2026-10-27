@@ -3,15 +3,23 @@
   "schemaVersion": "2.0.0",
   "id": "01a17c4a-f22e-7ca5-a176-b5b079476aeb",
   "slug": "neelambur-blog",
-  "title": "Neelambur Blog",
+  "title": "Neelambur.com Blog",
   "description": "Neelambur Blog",
   "canonicalBase": "https://neelamb1.github.io/neelambur-blog/",
   "defaultLanguage": "en-US",
-  "authors": ["gala/authors/placeholder-author.json"],
+  "authors": [
+    "gala/authors/placeholder-author.json"
+  ],
   "socialLinks": [],
   "policies": {
-    "terms": { "title": "Terms", "body": "gala/theme-pages/terms.md" },
-    "privacy": { "title": "Privacy", "body": "gala/theme-pages/privacy.md" }
+    "terms": {
+      "title": "Terms",
+      "body": "gala/theme-pages/terms.md"
+    },
+    "privacy": {
+      "title": "Privacy",
+      "body": "gala/theme-pages/privacy.md"
+    }
   },
   "extensions": {}
 }
