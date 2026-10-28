@@ -16,7 +16,7 @@ slug: about
 redirects: []
 extensions: {}
 ---
-## A practical local guide for Neelambur
+## A practical local guide for Neelambur.
 
 Find useful local information, discover nearby services, and follow local guides, directory updates, and free classifieds for people who live, work, study, sell, and build around Neelambur.
 
